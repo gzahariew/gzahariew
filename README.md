@@ -24,4 +24,4 @@ I'm a **Junior Frontend Developer** passionate about learning and mastering new 
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](www.linkedin.com/in/georgi-zahariev-646761314)
+![LinkedIn](www.linkedin.com/in/georgi-zahariev-646761314)
