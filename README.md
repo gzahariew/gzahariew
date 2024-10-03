@@ -11,14 +11,14 @@ I'm a **Junior Frontend Developer** passionate about learning and mastering new 
 
 ## 🛠️ Technologies & Tools
 
-![JavaScript]
-![React]
-![Next.js]
-![TypeScript]
-![CSS]
-![Git]
-![GitHub]
-![VS Code]
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visual-studio-code)
 
 ## 📈 GitHub Stats
 
