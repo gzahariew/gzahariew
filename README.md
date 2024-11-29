@@ -1,6 +1,6 @@
 # Hi there, I'm Georgi Zahariev! 👋
 
-I'm a **Junior Frontend Developer** passionate about learning and mastering new technologies. I love building small projects and collaborating with the developer community, especially in **open-source**!
+I'm a **Junior Software Developer** passionate about learning and mastering new technologies. I love building small projects and collaborating with the developer community, especially in **open-source**!
 
 ## 🚀 About Me
 
